@@ -1,6 +1,3 @@
-    .edit controller.ds4{
-    
-    background: url(https://imgur.com/a/jqJFm8M); 
-    height: 558px;
-    width: 784px;
-    }
+.edit .controller.ds4 {
+    background: url(https://imgur.com/a/jqJFm8M);
+}
